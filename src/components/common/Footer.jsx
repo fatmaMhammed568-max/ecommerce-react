@@ -443,7 +443,7 @@ const Footer = () => {
             <p className="text-gray-400 text-center md:text-right text-sm">
               © {getCurrentYear()} بيوتي طوما - جميع الحقوق محفوظة. 
               <span className="mx-2 text-primary-500" aria-hidden="true">♥</span>
-              صنع في مصر
+             Fatma mohammed Ebrahim
             </p>
             
             {/* روابط سريعة إضافية في الفوتر السفلي */}
